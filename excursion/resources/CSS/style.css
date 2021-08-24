@@ -1,0 +1,50 @@
+/*Full document Styling*/
+
+* {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Headings + Text */
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+    color:white;
+    background-color: black;
+    text-align: center; 
+ }
+ 
+ h2 {
+     font-weight: 300;
+     font-size: 42px;
+     color:white;
+     text-align: center; 
+ }
+ 
+ p {
+     font-size: 21px;
+     text-align: center;
+     color: gray;
+     background-color: black;
+ }
+
+ /* Links + media */
+ 
+ img {
+     text-align: center;
+ }
+ 
+ a {
+     color: aquamarine;
+     font-size: 16px;
+     text-align: center;
+ } 
+
+ /* Footer */
+ 
+ p#footer {
+     text-align: right;
+     color: gray;
+ }
